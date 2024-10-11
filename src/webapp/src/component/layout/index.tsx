@@ -11,7 +11,7 @@ class RootLayout extends React.Component {
         return (
             <Layout className="all-layout">
                 <Header className="header small-header">
-                    <h3 className="logo-text">Bililive-go</h3>
+                    <h3 className="logo-text">松果下载</h3>
                 </Header>
                 <Layout>
                     <Router>
